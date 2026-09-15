@@ -5,9 +5,9 @@
 // leave them as "" if you just want the plain image with no caption.
 // ============================================================
 const slidesConfig = [
-  { image: "banner.jpg", title: "", text: "" },
+  { image: "ChatGPT Image Sep 12, 2026, 01_09_00 AM.png", title: "", text: "" },
   // { image: "new-batch.jpg", title: "New Batch Starting", text: "Admissions open now" },
-  // { image: "result-2026.jpg", title: "", text: "" },
+  // { image: "result-2026.png", title: "", text: "" },
 ];
 
 // ===== CAROUSEL (no need to edit below this line) =====
