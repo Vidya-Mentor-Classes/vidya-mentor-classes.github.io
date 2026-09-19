@@ -58,3 +58,4 @@ links dhundo aur apne naye link se replace kar do.
 2. Is poore folder ke sare files usme upload karo
 3. Repo Settings → Pages mein jaakar "Deploy from branch" chuno, `main` branch select karo
 4. Kuch minute mein website live ho jayegi: `https://yourusername.github.io/repo-name/`
+  © 2026 Vidya Mentor Classes. All rights reserved.
