@@ -5,7 +5,7 @@
 // leave them as "" if you just want the plain image with no caption.
 // ============================================================
 const slidesConfig = [
-  { image: "", title: "", text: "" },
+  { image: "ChatGPT Image Aug 18, 2026, 11_52_41 PM.png", title: "VIDYA MENTOR CLASSES", text: "SANNI RAJ" },
   // { image: "new-batch.jpg", title: "New Batch Starting", text: "Admissions open now" },
   // { image: "result-2026.png", title: "", text: "" },
 ];
